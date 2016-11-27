@@ -1,4 +1,4 @@
-/* This file contains references to the vendor librares
+/* This file contains references to the vendor libraries
   we're using in this project. This is used by webpack
   in the production build only*. A separate bundle for vendor
   code is useful since it's unlikely to change as often
